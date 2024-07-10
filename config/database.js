@@ -14,10 +14,10 @@
 
 const { Sequelize } = require('sequelize');
 
-const sequelize = new Sequelize('jorgelinabaez_wewash ', 'jorgelinabaez', 'cacdeploy', {
+const sequelize = new Sequelize('368243_wewash  ', 'jorgelinabaez', 'cacdeploy', {
   host: 'jorgelinabaez.alwaysdata.net',
   dialect: 'mysql',
-  port: 3306, // Este es el puerto predeterminado para MySQL
+  port: 3001, // Este es el puerto predeterminado para MySQL
 });
 
 sequelize.authenticate()
