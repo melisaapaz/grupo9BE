@@ -8,14 +8,14 @@
   },
   "test": {
     "username": "368029",
-    "password": *Olivia2025*,
+    "password": "*Olivia2025*",
     "database": "melisaapaz_wewashdb",
     "host": "mysql-melisaapaz.alwaysdata.net",
     "dialect": "mysql"
   },
   "production": {
     "username": "368029",
-    "password": *Olivia2025*,
+    "password": "*Olivia2025*",
     "database": "melisaapaz_wewashdb",
     "host": "mysql-melisaapaz.alwaysdata.net",
     "dialect": "mysql"
